@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(122, 155, 155);
+    font-size: 20px;
+}
+
+body{
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    border-bottom: 4px;
+    border-bottom: solid;
+    border-bottom-color: #00f;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+}

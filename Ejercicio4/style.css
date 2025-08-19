@@ -1,0 +1,19 @@
+body{
+    background-color: honeydew;
+}
+h1{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+h2{
+    color:gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+h3{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+

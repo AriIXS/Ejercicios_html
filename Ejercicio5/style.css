@@ -1,0 +1,16 @@
+body{
+    background-color:darkgrey;
+}
+h1{
+    color: darkslategray;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 2px;
+    border-bottom: solid;
+    border-bottom-color: aqua;
+}
+h2{
+    color:darkgreen;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
